@@ -5,9 +5,9 @@ Local AI data analysis is a crucial task in many industries, but current solutio
 ## System Architecture
 ```mermaid
 graph LR
-A[Data] -->|load|> B[Preprocessing]
-B -->|transform|> C[Model]
-C -->|predict|> D[Results]
+A[Data] -->|load| B[Preprocessing]
+B -->|transform| C[Model]
+C -->|predict| D[Results]
 ```
 ## Project Structure
 tree
